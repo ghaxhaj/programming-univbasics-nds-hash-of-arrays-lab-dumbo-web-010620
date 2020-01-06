@@ -12,4 +12,4 @@ def add_character(show, name)
 
 end
 
-add_character(:third_earthers,Snarf)
+add_character(:third_earthers,"Snarf")
