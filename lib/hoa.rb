@@ -11,5 +11,3 @@ def add_character(show, name)
   show << name
 
 end
-
-add_character(:third_earthers,"Snarf")
